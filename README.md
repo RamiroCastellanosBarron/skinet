@@ -13,3 +13,7 @@
 -c --> Context
 
 -o --> Output
+
+### Install angular component development kit with angular schematics
+
+`ng add @angular/cdk`
